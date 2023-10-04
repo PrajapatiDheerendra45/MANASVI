@@ -9929,3 +9929,8 @@ a.smllbtnn {
 .s-block-content .hide {
   display: none;
 }
+.success-message {
+  color: green; /* Set your desired color */
+  margin-top: 10px; /* Set your desired margin-top value */
+  /* You can add more styling as needed */
+}
